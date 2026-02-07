@@ -1,5 +1,5 @@
 <!-- fallback_AnchorEarn_20251214182657_89482 -->
-https://images.stockcake.com/public/1/2/3/123a1e2d-76e9-4b59-aca3-41a465799bf2_large/sunken-anchor-seabed-stockcake.jpg
+<img src="https://images.stockcake.com/public/1/2/3/123a1e2d-76e9-4b59-aca3-41a465799bf2_large/sunken-anchor-seabed-stockcake.jpg" width="400" alt="Sunken Anchor">
 
 # AnchorEarn: Apex Nimbus: Real-time predictive-analytics processing, scaled across intelligent, autonomous clusters, optimized for seamless transactional Service Implementation
 > Advanced python solution leveraging modern architecture patterns and cutting-edge technology.
